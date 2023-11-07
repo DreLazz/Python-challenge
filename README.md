@@ -25,3 +25,9 @@
 ###   - The total number of votes each candidate won
 
 ###   - The winner of the election based on popular vote
+
+##    Method used:
+###   - Python
+
+### ***Notes***
+### The relevant code for the path I used was found on [StackOverflow](https://stackoverflow.com/questions/13000455/error-in-python-ioerror-errno-2-no-such-file-or-directory-data-csv)
