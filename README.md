@@ -31,4 +31,4 @@
 
 ### ***Notes***
 ### The relevant code for the path I used was found on [StackOverflow](https://stackoverflow.com/questions/13000455/error-in-python-ioerror-errno-2-no-such-file-or-directory-data-csv)
-### To create and format my READ.md i used [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### To create and format my READ.md I used [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
